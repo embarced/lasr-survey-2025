@@ -9,7 +9,6 @@ We distributed the survey to the LASR community via email and LinkedIn and recei
 
 We conducted the survey using Google Forms, with both a German and an English version.
 The questions were the same.
+The raw data from the survey is available as CSV files in the *data* subdirectory.
+We analyze it and share the results.
 
-## Results
-
-The raw data is available as a CSV file in the *data* subdirectory. We analyze it and share the results.
