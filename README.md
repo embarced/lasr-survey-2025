@@ -5,10 +5,12 @@ It targeted people who were familiar with LASR and had already applied it to som
 Respondents were asked to provide information about a specific LASR review within their company or organization.
 We distributed the survey to the LASR community via email and LinkedIn and received 57 responses within one week.
 
-## Technical Approach
+## Approach and Results
 
 We conducted the survey using Google Forms, with both a German and an English version.
 The questions were the same.
 The raw data from the survey is available as CSV files in the *data* subdirectory.
-We analyze it and share the results.
+We analyze it and share the results. Here is an example for one question, EN an DE responses combined.
+
+![How much time ...](img/time-taken.png)
 
