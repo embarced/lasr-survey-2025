@@ -1,14 +1,14 @@
-## About
+## About the Survey
 
-To better understand how LASR is used in practice, Stefan Toth and Stefan Zörner conducted a small survey in November 2025.
+To better understand how [LASR](https://www.lasr-reviews.org), the Lightweight Approach for Software Reviews, is used in practice, Stefan Toth and Stefan Zörner conducted a small survey in November 2025.
 It targeted people who were familiar with LASR and had already applied it to some extent.
 Respondents were asked to provide information about a specific LASR review within their company or organization.
 We distributed the survey to the LASR community via email and LinkedIn and received 57 responses within one week.
 
-## Approach and Results
+## Approach and First Results
 
 We conducted the survey using Google Forms, with both a German and an English version.
-The questions were the same.
+The questions were the same:
 
 * In which industry is the software system under review used?
 * How long has the software been in production?
@@ -20,9 +20,11 @@ The questions were the same.
 * How did you make further use of the review results afterwards?
 
 The raw data from the survey responses is available as CSV files in the *data* subdirectory.
-We analyze it and share the results. 
+We will analyze it and share the results. 
 
-As a preview, here is an example for one question, EN an DE responses combined.
+As a preview, here the results for two questions, EN an DE responses combined.
 
-![How much time ...](img/time-taken.png)
+![Which LASR steps did you carry out in your review?)](img/steps.png)
+
+![How much time did the review take?](img/time-taken.png)
 
